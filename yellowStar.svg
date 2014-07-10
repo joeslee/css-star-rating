@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="50px" viewBox="0 0 300 50" enable-background="new 0 0 300 50" xml:space="preserve">
+<symbol  id="star" viewBox="-24 -22.826 48 45.652">
+	<g>
+		<radialGradient id="SVGID_1_" cx="4.2085" cy="-13.9414" r="20.4942" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FEF48B"/>
+			<stop  offset="0.3132" style="stop-color:#FCF057"/>
+			<stop  offset="1" style="stop-color:#FAA91A"/>
+		</radialGradient>
+		<polygon fill="url(#SVGID_1_)" points="0,-14.462 -14.169,-21.912 -11.463,-6.134 -22.926,5.04 -7.085,7.342 0,21.696 
+			7.085,7.342 22.926,5.04 11.463,-6.134 14.169,-21.912 		"/>
+		<path fill="#D78128" d="M0,20.567l6.521-13.21l0.232-0.472l0.52-0.076L21.851,4.69L11.302-5.592l-0.376-0.367l0.089-0.518
+			l2.491-14.521l-13.04,6.856L0-13.897l-0.465-0.245l-13.04-6.856l2.491,14.521l0.089,0.518l-0.376,0.367L-21.851,4.69l14.578,2.119
+			l0.52,0.076l0.232,0.472L0,20.567 M0,22.826L-7.417,7.799L-24,5.389l12-11.697l-2.833-16.518L0-15.027l14.833-7.799L12-6.309
+			L24,5.389L7.417,7.799L0,22.826L0,22.826z"/>
+	</g>
+</symbol>
+<use xlink:href="#star"  width="48" height="45.652" x="-24" y="-22.826" transform="matrix(1 0 0 -1 30 24.9673)" overflow="visible"/>
+<use xlink:href="#star"  width="48" height="45.652" x="-24" y="-22.826" transform="matrix(1 0 0 -1 90 24.79)" overflow="visible"/>
+<use xlink:href="#star"  width="48" height="45.652" x="-24" y="-22.826" transform="matrix(1 0 0 -1 150.0151 24.9087)" overflow="visible"/>
+<use xlink:href="#star"  width="48" height="45.652" x="-24" y="-22.826" transform="matrix(1 0 0 -1 270.0156 24.8491)" overflow="visible"/>
+<use xlink:href="#star"  width="48" height="45.652" x="-24" y="-22.826" transform="matrix(1 0 0 -1 210 25.0264)" overflow="visible"/>
+</svg>
